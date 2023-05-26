@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+
+#exp-list {
+     padding-left: 0;
+}
+
+
+#listItems {
+    color:darkmagenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    margin:10px;
+    list-style: none; 
+    font-weight: bold;
+}
